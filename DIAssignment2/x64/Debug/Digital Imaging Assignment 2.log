@@ -1,0 +1,8 @@
+﻿  problem21.cpp
+c:\users\sherdwhite\google drive\visual studio projects\diassignment21\problem21.cpp(55): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\sherdwhite\google drive\visual studio projects\diassignment21\problem21.cpp(56): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\sherdwhite\google drive\visual studio projects\diassignment21\problem21.cpp(63): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\sherdwhite\google drive\visual studio projects\diassignment21\problem21.cpp(66): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\sherdwhite\google drive\visual studio projects\diassignment21\problem21.cpp(90): warning C4477: 'fprintf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'double'
+  Digital Imaging Assignment 2.vcxproj -> C:\Users\sherdwhite\Google Drive\Visual Studio Projects\DIAssignment21\x64\Debug\DIAssignment21.exe
+  Digital Imaging Assignment 2.vcxproj -> C:\Users\sherdwhite\Google Drive\Visual Studio Projects\DIAssignment21\x64\Debug\DIAssignment21.pdb (Partial PDB)

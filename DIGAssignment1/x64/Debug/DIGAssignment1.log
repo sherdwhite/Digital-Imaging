@@ -1,0 +1,13 @@
+﻿  wavelet.cpp
+c:\users\sherd\google drive\visual studio projects\digassignment1\wavelet.cpp(394): warning C4244: '=': conversion from 'double' to 'uchar', possible loss of data
+c:\users\sherd\google drive\visual studio projects\digassignment1\wavelet.cpp(404): warning C4244: '=': conversion from 'double' to 'uchar', possible loss of data
+c:\users\sherd\google drive\visual studio projects\digassignment1\wavelet.cpp(430): warning C4244: '=': conversion from 'double' to 'uchar', possible loss of data
+c:\users\sherd\google drive\visual studio projects\digassignment1\wavelet.cpp(440): warning C4244: '=': conversion from 'double' to 'uchar', possible loss of data
+c:\users\sherd\google drive\visual studio projects\digassignment1\wavelet.cpp(466): warning C4244: '=': conversion from 'double' to 'uchar', possible loss of data
+c:\users\sherd\google drive\visual studio projects\digassignment1\wavelet.cpp(476): warning C4244: '=': conversion from 'double' to 'uchar', possible loss of data
+c:\users\sherd\google drive\visual studio projects\digassignment1\wavelet.cpp(502): warning C4244: '=': conversion from 'double' to 'uchar', possible loss of data
+c:\users\sherd\google drive\visual studio projects\digassignment1\wavelet.cpp(511): warning C4244: '=': conversion from 'double' to 'uchar', possible loss of data
+c:\users\sherd\google drive\visual studio projects\digassignment1\wavelet.cpp(570): warning C4244: '=': conversion from 'double' to 'uchar', possible loss of data
+c:\users\sherd\google drive\visual studio projects\digassignment1\wavelet.cpp(580): warning C4244: '=': conversion from 'double' to 'uchar', possible loss of data
+  DIGAssignment1.vcxproj -> C:\Users\Sherd\Google Drive\Visual Studio Projects\DIGAssignment1\x64\Debug\DIGAssignment1.exe
+  DIGAssignment1.vcxproj -> C:\Users\Sherd\Google Drive\Visual Studio Projects\DIGAssignment1\x64\Debug\DIGAssignment1.pdb (Partial PDB)

@@ -1,0 +1,4 @@
+﻿  blur.cpp
+c:\users\sherd\google drive\education and training\digital image processing fall 2016\diassignment4\diassignment44\blur.cpp(68): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  DIAssignment34.vcxproj -> C:\Users\Sherd\Google Drive\Education and Training\Digital Image Processing Fall 2016\DIAssignment4\x64\Debug\DIAssignment44.exe
+  DIAssignment34.vcxproj -> C:\Users\Sherd\Google Drive\Education and Training\Digital Image Processing Fall 2016\DIAssignment4\x64\Debug\DIAssignment44.pdb (Partial PDB)
